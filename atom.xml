@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-18T17:13:04.000Z</updated>
+  <updated>2016-02-18T17:16:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/02/hello-world/"/>
     <id>http://yoursite.com/2016/02/hello-world/</id>
-    <published>2016-02-18T17:13:04.000Z</published>
-    <updated>2016-02-18T17:13:04.000Z</updated>
+    <published>2016-02-18T17:16:11.000Z</published>
+    <updated>2016-02-18T17:16:11.000Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing complexity of new technology, they have to learn more and accept more with every single day. Until now, technology has perpetuated itself not by giving the average person more time to pursue humane concerns, but by increasing efficiency. &lt;/p&gt;
@@ -42,7 +42,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;The &lt;strong&gt;platform&lt;/strong&gt; you chose is nothing important.&lt;br&gt;The program &lt;strong&gt;language&lt;/strong&gt; of a blog is nothing important.&lt;br&gt;The &lt;strong&gt;only important thing&lt;/strong&gt; is keeping blogging&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;＊本站中的instagram、facebook、flickr和twitter链接在中国大陆访问需要使用梯子。&lt;br&gt;＊本站采用第三方Dispus实现blog评论功能，Disqus在Quantcast的美国网络排名中以每月1.44亿独立用户访问排行第一，功能十分强大。如果您想经常光顾本站并发布评论，建议您注册Disqus账户、设置头像等，以实现更好的互动，您也可以通过账户随时查看或修改自己已发布的评论内容。&lt;/p&gt;
+&lt;p&gt;＊本站中的instagram、facebook、flickr和twitter链接在中国大陆访问需要使用梯子。&lt;br&gt;＊本站采用第三方Disqus实现blog评论功能，Disqus在Quantcast的美国网络排名中以每月1.44亿独立用户访问排行第一，功能十分强大。如果您想经常光顾本站并发布评论，建议您注册Disqus账户、设置头像等，以实现更好的互动，您也可以通过账户随时查看或修改自己已发布的评论内容。&lt;/p&gt;
 </content>
     
     <summary type="html">
