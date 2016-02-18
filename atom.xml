@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-18T16:54:27.000Z</updated>
+  <updated>2016-02-18T17:06:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,33 +19,36 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/02/hello-world/"/>
     <id>http://yoursite.com/2016/02/hello-world/</id>
-    <published>2016-02-18T16:54:27.000Z</published>
-    <updated>2016-02-18T16:54:27.000Z</updated>
+    <published>2016-02-18T17:06:14.000Z</published>
+    <updated>2016-02-18T17:06:14.000Z</updated>
     
-    <content type="html">&lt;p&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing complexity of new technology, they have to learn more and accept more with every single day. Until now, technology has perpetuated itself not by giving the average person more time to pursue humane concerns, but by increasing efficiency. &lt;/p&gt;
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing complexity of new technology, they have to learn more and accept more with every single day. Until now, technology has perpetuated itself not by giving the average person more time to pursue humane concerns, but by increasing efficiency. &lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&quot;拍脑袋的决定&quot;&gt;&lt;a href=&quot;#拍脑袋的决定&quot; class=&quot;headerlink&quot; title=&quot;拍脑袋的决定&quot;&gt;&lt;/a&gt;拍脑袋的决定&lt;/h2&gt;&lt;p&gt;以上这段话写于2014年我申请香港高校研究生材料Personal Statement中的第一段。&lt;/p&gt;
 &lt;p&gt;那是一个飘雪的寒冬，腊月二十九我坐在客厅的沙发上边看电视边跟爸妈聊毕业之后的发展。借鉴学长学姐的经验，一拍脑袋决定买大年初四的票回上海学托福申请香港读研。&lt;/p&gt;
 &lt;p&gt;之后2014就在托福和申请中度过了，拍脑袋的决定实现起来并不轻松，但这并不意味着是一个临时的决定。我从小生活在山东某城市的大山深处（这一点都不夸张，前几天还看到纪录片说上世纪50年代某央企要在这里建厂专家评估说施工难度大，但是为了响应毛主席当时“靠山 分散 隐蔽”“为战 为荒 为人民”的战略方针还是选择了这个大山深处），但我有个爱旅游的爸啊，从我六岁开始就带我往北京上海杭州南京成都大连这样的大城市跑，甚至还去过朝鲜这个很少有国人愿意去的国家来增强民族自豪感。于是高考报志愿的时候我的选择是，只要能去北京上海，就算去不了985院校也行。&lt;/p&gt;
-&lt;p&gt;在上海的四年让我体会到了大城市的优越感，更多接触新鲜事物的机会，更多的选择。现在面前有一个可以去香港这种离家最近的境外&lt;em&gt;体验&lt;/em&gt;一年，何乐而不为。对，你没看错，就是体验，我笃信我不是一个搞学术科研的料。&lt;/p&gt;
+&lt;p&gt;在上海的四年让我体会到了大城市的优越感，更多接触新鲜事物的机会，更多的选择。现在面前有一个可以去香港这种离家最近的境外&lt;strong&gt;&lt;em&gt;体验&lt;/em&gt;&lt;/strong&gt;一年，何乐而不为。对，你没看错，就是体验，我笃信我不是一个搞学术科研的料。&lt;/p&gt;
 &lt;h2 id=&quot;改变悄然发生&quot;&gt;&lt;a href=&quot;#改变悄然发生&quot; class=&quot;headerlink&quot; title=&quot;改变悄然发生&quot;&gt;&lt;/a&gt;改变悄然发生&lt;/h2&gt;&lt;p&gt;从准备来香港开始就是不断的学学学。可能这也是每个留学生在出发前都要去面对的吧。没有辅导员，没人告诉你该怎么做，所有你要做的事情都要自己去网络上挖掘，结局只有自己承担。来了之后习惯不同语言不通，当时为了把从宜家买的床装起来要买个螺丝刀，问了好几个人愣是没有人听懂普通话的“螺丝刀”到底是个什么东西。选课的时候名字长的课程名称会用简写，类别只用一个字母标注，傻傻分不清是什么意思。&lt;/p&gt;
 &lt;p&gt;经历了刚开始的几个星期我养成了一个思维习惯，只要我想知道的信息就一定有办法可以得到，关键就是能否找对使用互联网工具的方法了。就像现在这个一步步做起来的网站，从Android App开发这门课获得的灵感和一些互通的知识，完全靠自己Google方法，慢慢事情就完成了（这里不得不吐槽百度，想搜索到有价值的东西百度比Google差太多；更无奈的是，最有用的技术文档往往是英文写出来的）。来香港之前如果遇到这种技术项目我肯定会想，这是程序员干的事儿我又不是程序员我怎么搞得定这个我不适合干这个，要不牺牲效果弄个简单点儿的算了或者如果一定要做的话就去某宝找个外包？&lt;/p&gt;
 &lt;p&gt;Semester A 经历过的课程像是一个个美丽的噩梦，实验像毕设，期末像高考。虽然这是夸张的说辞，但每学完一门课就仿佛为我打开了一扇门，让我看到门后的奥秘所在并知道自己想沿着哪个门后的路继续走下去。原来很多熟悉的对象是这样实现的，原来那些技术的发明者是这样思考的。人类社会发展的积淀犹如一幅画卷在面前徐徐展开。&lt;/p&gt;
 &lt;p&gt;如果说在上海的四年培养了我组织管理社交方面的兴趣的话，现在的我对互联网技术充满了好奇。&lt;/p&gt;
-&lt;h2 id=&quot;时间的朋友&quot;&gt;&lt;a href=&quot;#时间的朋友&quot; class=&quot;headerlink&quot; title=&quot;时间的朋友&quot;&gt;&lt;/a&gt;时间的朋友&lt;/h2&gt;&lt;p&gt;2015年12月31日晚，罗振宇在水立方进行了一场前所未有的跨年演讲，题目叫“时间的朋友”。2015年我恰好看了一本李笑来发表在网络上的书叫《把时间当作朋友》。说的核心思想就是不管你做什么事儿经过&lt;em&gt;时间的积累&lt;/em&gt;自然会得到回报。这个回报就体现在做了这件事的你和没做过这件事的人差异会越来越大。&lt;/p&gt;
+&lt;h2 id=&quot;时间的朋友&quot;&gt;&lt;a href=&quot;#时间的朋友&quot; class=&quot;headerlink&quot; title=&quot;时间的朋友&quot;&gt;&lt;/a&gt;时间的朋友&lt;/h2&gt;&lt;p&gt;2015年12月31日晚，罗振宇在水立方进行了一场前所未有的跨年演讲，题目叫“时间的朋友”。2015年我恰好看了一本李笑来发表在网络上的书叫《把时间当作朋友》。说的核心思想就是不管你做什么事儿经过&lt;strong&gt;时间的积累&lt;/strong&gt;自然会得到回报。这个回报就体现在做了这件事的你和没做过这件事的人差异会越来越大。&lt;/p&gt;
 &lt;p&gt;也许差异就从使用工具的差异开始呢？&lt;/p&gt;
 &lt;p&gt;值得庆幸的是，互联网上不乏有各路大牛通过文字声音或是视频的形式分享自己对各种工具的经验心得。跟随他们的脚步，我2015年新入的工具有Surge、Ulysses、OmniFocus等，已经融入并渐渐改变着我的生活，接下来我也会把我突出的体验和感受在这里分享出来。本网站采用Hexo＋Github搭建，在Github上我找到了很多同行留下的宝贵资源非常受用。有人说，搭建个人网站是当今互联网时代每个人的必备技能，不仅是个人名片，也是数字资产。还有传言说，嫁人就嫁有个人网站的男人。之前每天刷微博刷微信朋友圈的生活已经有三四年了，碎片化的信息把思路和思维习惯都打碎了。我把这里当做一个安安静静认真写文章的地方，沉淀思想的地方，梳理思路的地方，记录生活的地方，用心分享的地方。多年以后回望走过的路看看说过的话也别有一番滋味。&lt;/p&gt;
 &lt;p&gt;互联网产品的更新迭代让之前的积累成为了悲剧，罗永浩曾经创办的牛博网聚集了一大批有思想的知识分子分享自己的思考，由于众所周知的原因也在2013年关停。初中时玩过一阵百度空间，如今关站让我从前的记忆消逝于时间的洪流。这次重新出发，自己的域名永不关张。&lt;/p&gt;
 &lt;h2 id=&quot;你好-世界&quot;&gt;&lt;a href=&quot;#你好-世界&quot; class=&quot;headerlink&quot; title=&quot;你好 世界&quot;&gt;&lt;/a&gt;你好 世界&lt;/h2&gt;&lt;p&gt;有时候觉得世界很大，那么多美景都不曾看过更不曾涉足。&lt;br&gt;有时候觉得世界很小，周围的环境和身边的人也足以让人感到幸福。&lt;br&gt;Hello world是新建项目的默认标题，如今太多的信息靠代码承载和传播打造出我们所触摸到的世界。我愿意从这里，看世界。&lt;/p&gt;
 &lt;p&gt;最后分享一段偶然在farbox宣传视频上看到的一段话作为结尾：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The &lt;em&gt;platform&lt;/em&gt; you chose is nothing important.&lt;br&gt;The program &lt;em&gt;language&lt;/em&gt; of a blog is nothing important.&lt;br&gt;The &lt;em&gt;only important thing&lt;/em&gt; is keeping blogging&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;platform&lt;/em&gt;&lt;/strong&gt; you chose is nothing important.&lt;br&gt;The program &lt;strong&gt;&lt;em&gt;language&lt;/em&gt;&lt;/strong&gt; of a blog is nothing important.&lt;br&gt;The &lt;strong&gt;&lt;em&gt;only important thing&lt;/em&gt;&lt;/strong&gt; is keeping blogging&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;＊本站中的instagram、facebook、flickr和twitter链接在中国大陆访问需要使用梯子。&lt;br&gt;＊本站采用第三方Dispus实现blog评论功能，Disqus在Quantcast的美国网络排名中以每月1.44亿独立用户访问排行第一，功能十分强大。如果您想经常光顾本站并发布评论，建议您注册Disqus账户、设置头像等，以实现更好的互动，您也可以通过账户随时查看或修改自己已发布的评论内容。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;＊本站中的instagram、facebook、flickr和twitter链接在中国大陆访问需要使用梯子。&lt;/em&gt;&lt;br&gt;&lt;em&gt;＊本站采用第三方Dispus实现blog评论功能，Disqus在Quantcast的美国网络排名中以每月1.44亿独立用户访问排行第一，功能十分强大。如果您想经常光顾本站并发布评论，建议您注册Disqus账户、设置头像等，以实现更好的互动，您也可以通过账户随时查看或修改自己已发布的评论内容。&lt;/em&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing complexity of n
+      &lt;blockquote&gt;
+&lt;p&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing co
     
     </summary>
     
