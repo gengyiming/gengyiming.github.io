@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-20T06:35:17.000Z</updated>
+  <updated>2016-02-20T06:37:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/02/hello-world/"/>
     <id>http://yoursite.com/2016/02/hello-world/</id>
     <published>2016-02-19T07:30:16.000Z</published>
-    <updated>2016-02-20T06:35:17.000Z</updated>
+    <updated>2016-02-20T06:37:40.000Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Ever since I can remember, I have heard older people complain about being tired of unchanging things. With the increasing complexity of new technology, they have to learn more and accept more with every single day. Until now, technology has perpetuated itself not by giving the average person more time to pursue humane concerns, but by increasing efficiency. &lt;/em&gt;&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;p&gt;互联网产品的更新迭代让之前的积累成为了悲剧，罗永浩曾经创办的牛博网聚集了一大批有思想的知识分子分享自己的思考，但由于众所周知的原因在2013年被迫关停。初中时我玩过一阵百度空间写下不少文字，2015年关站让我从前的记忆消逝于时间的洪流。这次重新出发，自己的域名永不关张。&lt;/p&gt;
 &lt;h2 id=&quot;你好-世界&quot;&gt;&lt;a href=&quot;#你好-世界&quot; class=&quot;headerlink&quot; title=&quot;你好 世界&quot;&gt;&lt;/a&gt;&lt;strong&gt;你好 世界&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;有时候觉得世界很大，那么多美妙的景色我都不曾去看过。&lt;br&gt;有时候觉得世界很小，周围每天面对的环境和身边的人也足以让人感到幸福。&lt;br&gt;“Hello world”是新建项目的默认标题，如今太多的信息靠代码承载靠网络传播塑造了我们的精神世界。那就从这个用代码构造的天地里跟世界打个招呼。&lt;/p&gt;
 &lt;p&gt;最后分享一段偶然在farbox宣传视频上看到的一段话作为结尾：&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;gt;The &lt;strong&gt;platform&lt;/strong&gt; you chose is nothing important.&lt;/em&gt;&lt;br&gt;&lt;em&gt;&amp;gt;The program &lt;strong&gt;language&lt;/strong&gt; of a blog is nothing important.&lt;/em&gt;&lt;br&gt;&lt;em&gt;&amp;gt;The &lt;strong&gt;only important thing&lt;/strong&gt; is keeping blogging&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;::&lt;em&gt;The &lt;strong&gt;platform&lt;/strong&gt; you chose is nothing important.&lt;/em&gt;::&lt;br&gt;::&lt;em&gt;The program &lt;strong&gt;language&lt;/strong&gt; of a blog is nothing important.&lt;/em&gt;::&lt;br&gt;::&lt;em&gt;The &lt;strong&gt;only important thing&lt;/strong&gt; is keeping blogging&lt;/em&gt;::&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;本站中的instagram、facebook、flickr和twitter链接在中国大陆访问需要使用梯子。&lt;/li&gt;
