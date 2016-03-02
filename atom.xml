@@ -4,9 +4,9 @@
   <subtitle>Coding, travelling and photographing</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://gengyiming.com/"/>
   <updated>2016-02-27T04:12:23.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://gengyiming.com/</id>
   
   <author>
     <name>Geng Yiming</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>记录本身就是意义</title>
-    <link href="http://yoursite.com/2016/02/%E8%AE%B0%E5%BD%95%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E6%84%8F%E4%B9%89/"/>
-    <id>http://yoursite.com/2016/02/记录本身就是意义/</id>
+    <link href="http://gengyiming.com/2016/02/%E8%AE%B0%E5%BD%95%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E6%84%8F%E4%B9%89/"/>
+    <id>http://gengyiming.com/2016/02/记录本身就是意义/</id>
     <published>2016-02-27T01:31:52.000Z</published>
     <updated>2016-02-27T04:12:23.000Z</updated>
     
@@ -58,14 +58,14 @@
     </summary>
     
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+      <category term="Life" scheme="http://gengyiming.com/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/02/hello-world/"/>
-    <id>http://yoursite.com/2016/02/hello-world/</id>
+    <link href="http://gengyiming.com/2016/02/hello-world/"/>
+    <id>http://gengyiming.com/2016/02/hello-world/</id>
     <published>2016-02-19T07:30:16.000Z</published>
     <updated>2016-02-27T04:07:40.000Z</updated>
     
