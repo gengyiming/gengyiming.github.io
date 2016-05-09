@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gengyiming.com/"/>
-  <updated>2016-04-23T08:51:47.000Z</updated>
+  <updated>2016-05-09T05:19:13.000Z</updated>
   <id>http://gengyiming.com/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CityU</title>
+    <link href="http://gengyiming.com/2016/05/CityU/"/>
+    <id>http://gengyiming.com/2016/05/CityU/</id>
+    <published>2016-05-09T05:19:13.000Z</published>
+    <updated>2016-05-09T05:19:13.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>仰望</title>
